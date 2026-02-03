@@ -21,9 +21,13 @@ Proje üstünde çalışmam hala devam etmektedir yeni versiyonlar için takipte
 
 Giriş Ekranı 
 <img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/b54ca748-43b6-4640-b8ed-b8a06e90f848" />
+
 <img width="1918" height="906" alt="image" src="https://github.com/user-attachments/assets/ca6c8dce-b4a2-40e9-ba72-baf101cc30b3" />
+
 <img width="893" height="368" alt="image" src="https://github.com/user-attachments/assets/9d15f45c-cf82-4620-85de-fb526c4b7f49" />
+
 <img width="778" height="446" alt="image" src="https://github.com/user-attachments/assets/315cf286-10b9-4c83-a0a2-40bad6fcfee9" />
+
 <img width="1055" height="495" alt="image" src="https://github.com/user-attachments/assets/ba4c27ae-1f90-4cce-9a5c-efdfc2f323c7" />
 
 
