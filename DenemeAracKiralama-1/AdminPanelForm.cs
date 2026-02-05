@@ -136,10 +136,10 @@ namespace DenemeAracKiralama_1
                         MessageBox.Show("Araç teslim alındı ve kiralama kaydı başarıyla kapatıldı!");
 
                         // 4. Hem araç listesini hem de müşteri/gelir listesini yenile
-                        VerileriYukle(); // Araç listesini yeniler
+                        VerileriYukle(); 
                         if (Application.OpenForms["AdminForm"] != null)
                         {
-                            // Eğer rapor metodun varsa onu da burada tetikleyebilirsin
+                            RaporuGuncelle();
                         }
                     }
                 }
